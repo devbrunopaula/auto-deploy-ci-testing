@@ -11,6 +11,5 @@ Description of PR...
 -   [ ] Manual Code Review
 -   [ ] Testing
 
-
 Fixes #85, Fixes #22, Fixes username/repo#123
 Connects #123
