@@ -10,7 +10,6 @@ Description of PR...
 -   [ ] Responsive
 -   [ ] Manual Code Review
 -   [ ] Testing
-        [ ] --
 
 Fixes #85, Fixes #22, Fixes username/repo#123
 Connects #123
